@@ -2,6 +2,8 @@
 
 Voice Cloning Application for Engineering Major Project
 
+![UI Sample](https://github.com/fuzail1011/voice-cloning/raw/main/image/UI%20sample.png)
+
 ## Setup
 
 ### 1. Install Requirements
